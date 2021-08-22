@@ -4,12 +4,12 @@
 # Webpack4 Standard Config
 Standard configuration webpack 4
 
-## Start Development
+## 🚀 Start Development
 ```
 npm run dev
 ```
 
-## Start Production
+## 🎉 Start Production
 ```
 npm run build
 ```
