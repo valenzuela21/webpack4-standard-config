@@ -1,5 +1,5 @@
 
-![alt text](https://raw.githubusercontent.com/valenzuela21/webpack4-standard-config/main/ScreenShot.jpg)
+![alt text](https://raw.githubusercontent.com/valenzuela21/webpack4-standard-config/main/ScreenShop.jpg)
 
 # Webpack4 Standard Config
 Standard configuration webpack 4
