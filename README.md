@@ -17,3 +17,8 @@ npm run dev
 ```
 npm run build
 ```
+
+## Server
+```
+http://localhost:5000/
+```
